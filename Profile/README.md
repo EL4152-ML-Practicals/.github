@@ -17,7 +17,7 @@ Welcome to the official repository for EL 4152: Machine Learning Practicals. Thi
    To get started, clone this repository using Git:
 
    ```bash
-   git clone https://github.com/Machine-Learning-Practicals.git
+   git clone https://github.com/EL4152-ML-Practicals)
    ```
 
 2. **Navigate to the Specific Folder**
@@ -108,3 +108,4 @@ This repository is created as part of the EL 4152: Machine Learning course modul
 - **Artificial Neural Networks (ANNs)**
 - **Model Evaluation and Validation**
 - **Data Visualization** using Matplotlib and Seaborn
+
