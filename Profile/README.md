@@ -94,12 +94,6 @@ Before working on the practicals, ensure you have the following tools installed:
 
 ---
 
-## 📜 License
-
-This repository is created as part of the EL 4152: Machine Learning course module and is intended for educational purposes only. All content belongs to [University Name] and its faculty.
-
----
-
 ## 🤖 Key Topics Covered in This Repository:
 
 - **Data Preprocessing**
@@ -108,4 +102,5 @@ This repository is created as part of the EL 4152: Machine Learning course modul
 - **Artificial Neural Networks (ANNs)**
 - **Model Evaluation and Validation**
 - **Data Visualization** using Matplotlib and Seaborn
+
 
